@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/aymenabb/ddos-evaluation-dataset-cic-ddos2019
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-handle/ddos-dashboard.git
+git clone https://github.com/sanxku/ddos-dashboard.git
 cd ddos-dashboard
 npm install
 npm start       # http://localhost:3000
