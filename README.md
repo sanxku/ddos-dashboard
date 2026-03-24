@@ -47,9 +47,12 @@ npm run build   # Production build
 ## Project Structure
 
 ```
+public/          
+└── index.html
 src/
 ├── App.js              # Root component — all tabs, charts, layout
 ├── index.css           # Global styles, CSS variables
+├── index.js
 └── data/
     └── trafficData.js  # Simulated data generators
 ```
